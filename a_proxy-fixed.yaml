@@ -1,5 +1,6 @@
 payload:
   - +.gov
+  - +.huggingface.co
   - +.mc-servers.tech
   - +.greathost.es
   - +.wispbyte.com
